@@ -1,4 +1,4 @@
-print("Myself Priyanshu")
+
 name = input("What is Your name? ")
 print("Hello, " + name)
 # baby steps!
