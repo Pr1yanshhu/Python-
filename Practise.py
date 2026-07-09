@@ -8,3 +8,4 @@ age = int(input("What is your Birthyear? "))
 print("You'll be " + str(2030 - age) + " in 2030")
 print("Thank You")
 # Have to watch Lecture 1 again....
+#havent done practise
